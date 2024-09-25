@@ -1,0 +1,32 @@
+h1 {
+    margin-top: 30%;
+    text-align: center;
+}
+
+.container {
+    height: 100vh; 
+    margin: 0; 
+    display: flex; 
+    justify-content: center; 
+    align-items: 50px; 
+}
+
+li {
+    list-style-type: none; 
+    padding: 10px;  
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    transition: background-color 0.3s; ;
+}
+
+#C3:hover {
+    background-color: rgb(77, 62, 244); 
+}
+#C2:hover {
+    background-color: red; 
+}
+
+#C1:hover {
+    background-color: rgba(147, 138, 245, 0.952); 
+}

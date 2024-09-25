@@ -1,0 +1,15 @@
+body {
+    height: 2000px; 
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+#info {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    border-radius: 5px;
+}
